@@ -1,5 +1,3 @@
 # git-workshop
 Example repo for Git workshop
-NAYa hu mai
-firse naya hu mai
-This line was added by Manu
+This workshop was conducted on 21-2-2019
